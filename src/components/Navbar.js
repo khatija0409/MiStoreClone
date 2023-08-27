@@ -25,8 +25,7 @@ const Navbar = () => {
       </div>
 
       <a className="navlinks" href="/#miphones">
-        {" "}
-        Phones
+        Mi Phones
       </a>
       <a className="navlinks" href="/#redmiphones">
         Redmi Phones
